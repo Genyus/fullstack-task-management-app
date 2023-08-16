@@ -1,8 +1,0 @@
-{
-  "name": "fullstack-task-management-app",
-  "version": "1.0.0",
-  "main": "client/src/index.js",
-  "repository": "https://github.com/Genyus/fullstack-task-management-app",
-  "author": "Gary McPherson <genyus@gmail.com>",
-  "license": "MIT"
-}

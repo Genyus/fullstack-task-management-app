@@ -22,7 +22,7 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: ./client
+        working-directory: ./server
     steps:
       - uses: actions/checkout@v2
       - name: Test using Yarn after installing packages
